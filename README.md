@@ -1,6 +1,6 @@
  JavaCRUD
 ========
 
-Sample crud using Java lib Jframe.
+Sample crud Java, using interface Jframe.
 
 Good fun! ;D
