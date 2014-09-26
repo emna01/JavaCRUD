@@ -1,4 +1,6 @@
-#Very sample file, for script created table postgresql.
+'''
+ File too simple for creating test tables, postgresql.
+'''
 
 CREATE TABLE cidade
 (
